@@ -1,0 +1,13 @@
+
+[
+{ "url":"bd-soft.wav", "type":"audio","bank":"bd","n":0},
+{ "url":"crash-dome.wav", "type":"audio","bank":"crash","n":0},
+{ "url":"hh-close.wav", "type":"audio","bank":"hh","n":0},
+{ "url":"sn-buzzroll-spedup.wav", "type":"audio","bank":"sn","n":0},
+{ "url":"sn-buzzroll.wav", "type":"audio","bank":"sn","n":1},
+{ "url":"sn-drag.wav", "type":"audio","bank":"sn","n":2},
+{ "url":"sn-flam.wav", "type":"audio","bank":"sn","n":3},
+{ "url":"sn-forte.wav", "type":"audio","bank":"sn","n":4},
+{ "url":"sn-rimshot.wav", "type":"audio","bank":"sn","n":5}
+  
+]
