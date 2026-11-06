@@ -7,5 +7,56 @@
 { "url":"avsn/sn-drag.wav","type":"audio","bank":"avsn","n":2},
 { "url":"avsn/sn-flam.wav","type":"audio","bank":"avsn","n":3},
 { "url":"avsn/sn-forte.wav","type":"audio","bank":"avsn","n":4},
-{ "url":"avsn/sn-rimshot.wav","type":"audio","bank":"avsn","n":5}
+{ "url":"avsn/sn-rimshot.wav","type":"audio","bank":"avsn","n":5},
+
+
+
+{ "url":"foop0.wav","type":"audio","bank":"foop","n":0},
+{ "url":"foop1.wav","type":"audio","bank":"foop","n":1},
+{ "url":"foop2.wav","type":"audio","bank":"foop","n":2},
+{ "url":"glitchka0.wav","type":"audio","bank":"glitchka","n":0},
+{ "url":"glitchka1.wav","type":"audio","bank":"glitchka","n":1},
+{ "url":"glitchka2.wav","type":"audio","bank":"glitchka","n":2},
+{ "url":"gtr0.wav","type":"audio","bank":"gtr","n":0},
+{ "url":"kalimba0.wav","type":"audio","bank":"kalimba","n":0},
+{ "url":"kalimba1.wav","type":"audio","bank":"kalimba","n":1},
+{ "url":"kalimba2.wav","type":"audio","bank":"kalimba","n":2},
+{ "url":"kalimba3.wav","type":"audio","bank":"kalimba","n":3},
+{ "url":"kalimba4.wav","type":"audio","bank":"kalimba","n":4},
+{ "url":"kalimba5.wav","type":"audio","bank":"kalimba","n":5},
+{ "url":"kalimba6.wav","type":"audio","bank":"kalimba","n":6},
+{ "url":"kalimba7.wav","type":"audio","bank":"kalimba","n":7},
+{ "url":"kalimba8.wav","type":"audio","bank":"kalimba","n":8},
+{ "url":"kalimba9.wav","type":"audio","bank":"kalimba","n":9},
+{ "url":"kalimba10.wav","type":"audio","bank":"kalimba","n":10},
+{ "url":"kalimba11.wav","type":"audio","bank":"kalimba","n":11},
+
+  
+{ "url":"kalimbad0.wav","type":"audio","bank":"kalimbad","n":0},
+{ "url":"kalimbad1.wav","type":"audio","bank":"kalimbad","n":1},
+{ "url":"kalimbad2.wav","type":"audio","bank":"kalimbad","n":2},
+{ "url":"kalimbad3.wav","type":"audio","bank":"kalimbad","n":3},
+{ "url":"kalimbad4.wav","type":"audio","bank":"kalimbad","n":4},
+{ "url":"kalimbalong0.wav","type":"audio","bank":"kalimbalong","n":0},
+{ "url":"kalimbalong1.wav","type":"audio","bank":"kalimbalong","n":1},
+{ "url":"kalimbalong2.wav","type":"audio","bank":"kalimbalong","n":2},
+{ "url":"kalimbalong3.wav","type":"audio","bank":"kalimbalong","n":3},
+{ "url":"kalimbalong4.wav","type":"audio","bank":"kalimbalong","n":4},
+{ "url":"kalimbalong5.wav","type":"audio","bank":"kalimbalong","n":5},
+{ "url":"kalimbalong6.wav","type":"audio","bank":"kalimbalong","n":6},
+{ "url":"kalimbalong7.wav","type":"audio","bank":"kalimbalong","n":7},
+
+{ "url":"kalimbax0.wav","type":"audio","bank":"kalimbax","n":0},
+{ "url":"kalimby0.wav","type":"audio","bank":"kalimby","n":0},
+{ "url":"kalimby1.wav","type":"audio","bank":"kalimby","n":1},
+{ "url":"kalimby2.wav","type":"audio","bank":"kalimby","n":2},
+{ "url":"kalimby3.wav","type":"audio","bank":"kalimby","n":3},
+{ "url":"kalimby4.wav","type":"audio","bank":"kalimby","n":4},
+{ "url":"noise.wav","type":"audio","bank":"noise","n":0},
+{ "url":"pat0.wav","type":"audio","bank":"pat","n":0},
+{ "url":"pat2.wav","type":"audio","bank":"pat","n":1},
+{ "url":"scratch0.wav","type":"audio","bank":"scratch","n":0},
+{ "url":"scratch1.wav","type":"audio","bank":"scratch","n":1},
+{ "url":"scratch3.wav","type":"audio","bank":"scratch","n":2}
+  
 ]
